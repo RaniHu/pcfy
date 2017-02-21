@@ -192,13 +192,6 @@ body {
           color: #1072d9;
           cursor: default; }
 
-/*底部*/
-#footer {
-  padding: 10px 0;
-  text-align: center;
-  font-size: 14px;
-  background-color: #f2f2f2; }
-
 @media screen and (max-width: 1120px) {
   .section.s2 {
     /*热门楼盘展示*/ }
