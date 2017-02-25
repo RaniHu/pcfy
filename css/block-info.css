@@ -373,10 +373,7 @@ body {
         margin-top: 0; }
         #block-space-style li span.space-style .block-status {
           position: relative;
-          margin-left: 4px; }
-
-  #block-facility #block-facility-info, #block-space #block-facility-info {
-    padding: 0 20px 10px 20px; } }
+          margin-left: 4px; } }
 /*iphone6plus*/
 @media screen and (min-width: 374px) and (max-width: 415px) {
   /*头部返回按钮*/
