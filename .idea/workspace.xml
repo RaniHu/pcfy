@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3406f821-1200-467e-8cdb-ef44f1bd7669" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner10.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner11.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner5.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner6.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner7.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner8.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/gydyh2/banner9.JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/block-info/gydyh.html" afterPath="$PROJECT_DIR$/block-info/gydyh.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner1.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner1.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner10.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner10.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner11.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner11.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner2.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner2.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner3.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner3.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner4.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner4.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner5.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner5.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner6.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner6.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner7.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner7.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner8.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner8.JPG" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\block-info\gydyh2\banner9.JPG" afterPath="$PROJECT_DIR$/img/block-info/gydyh/banner9.JPG" />
     </list>
     <ignored path="pcfy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13333334">
-              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            <state vertical-scroll-proportion="-9.216666">
+              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -56,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gydyh.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gydyh.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/block-info/gydyh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.977528">
-              <caret line="39" column="85" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+            <state vertical-scroll-proportion="0.20564516">
+              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -245,28 +245,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gydyh2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -365,9 +343,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -711,18 +689,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/gydyh.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.977528">
-          <caret line="39" column="85" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
+        <state vertical-scroll-proportion="-9.216666">
+          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/block-info/gydyh.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13333334">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.20564516">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding />
         </state>
       </provider>
