@@ -310,7 +310,7 @@ body {
     border-bottom: 1px solid #dddddd; }
     #block-facility #block-facility-tab li {
       display: inline-block;
-      padding: 15px 5px;
+      padding: 15px 12px;
       cursor: pointer;
       font-size: 16px; }
       #block-facility #block-facility-tab li.active {
@@ -403,7 +403,6 @@ body {
     border-bottom: 1px solid #dddddd; }
     #block-facility #block-facility-tab li {
       display: inline-block;
-      padding: 15px 5px;
       cursor: pointer;
       font-size: 18px; }
       #block-facility #block-facility-tab li.active {
@@ -499,7 +498,6 @@ body {
     border-bottom: 1px solid #dddddd; }
     #block-facility #block-facility-tab li {
       display: inline-block;
-      padding: 15px 8px;
       cursor: pointer;
       font-size: 20px; }
       #block-facility #block-facility-tab li.active {
