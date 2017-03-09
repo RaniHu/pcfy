@@ -18,6 +18,13 @@ $(function () {
 
     //顶部菜单点击切换
     var topNav = $("#top-nav");
+    $("#header").find(".open-icon").on("click",function(){
+        $("#top-nav").slideToggle();
+        topNav.find("li").on("click",function () {
+            $("#top-nav").slideUp();
+        });
+    });
+
     topNav.find("li").on("click",function () {
         $(this).addClass("active").siblings().removeClass("active");
     });
