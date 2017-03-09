@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3406f821-1200-467e-8cdb-ef44f1bd7669" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/banner1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner10.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner11.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/banner2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/banner3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner5.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner6.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner7.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner8.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/ldxyl/banner9.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/block-space1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/block-space2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/block-space3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/block-space4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/block-info/jyds/block-space5.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/block-info/jyds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/block-info/ldxyl.html" />
-      <change type="DELETED" beforePath="E:\github\pcfy\img\banner5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\pcfy\img\banner6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\pcfy\img\banner7.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/block-info.css.map" afterPath="$PROJECT_DIR$/css/block-info.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/block-info.css" afterPath="$PROJECT_DIR$/css/block-info.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/block-info.scss" afterPath="$PROJECT_DIR$/css/block-info.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/block-info/dsxxty.html" afterPath="$PROJECT_DIR$/block-info/dsxxty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pcfy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -360,7 +333,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

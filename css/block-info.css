@@ -538,6 +538,9 @@ body {
         line-height: 18px;
         font-size: 18px; }
 
+  #block-facility #block-facility-tab li {
+    padding: 15px 10px; }
+
   /*户型*/
   #block-space-style li img {
     width: 30%; }
