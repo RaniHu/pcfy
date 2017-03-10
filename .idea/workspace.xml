@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3406f821-1200-467e-8cdb-ef44f1bd7669" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/loading.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lazyLoad.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/block-info/jyds.html" afterPath="$PROJECT_DIR$/block-info/jyds.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/block-info/ldxyl.html" afterPath="$PROJECT_DIR$/block-info/ldxyl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\contact-pos.png" afterPath="$PROJECT_DIR$/img/icon/contact-pos.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\contact-pos2.png" afterPath="$PROJECT_DIR$/img/icon/contact-pos2.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\contact-tel.png" afterPath="$PROJECT_DIR$/img/icon/contact-tel.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\contact-women.png" afterPath="$PROJECT_DIR$/img/icon/contact-women.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\logo.png" afterPath="$PROJECT_DIR$/img/icon/logo.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\logo@x2.png" afterPath="$PROJECT_DIR$/img/icon/logo@x2.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\open-icon.png" afterPath="$PROJECT_DIR$/img/icon/open-icon.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\service-allowance.png" afterPath="$PROJECT_DIR$/img/icon/service-allowance.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\service-free-bus.png" afterPath="$PROJECT_DIR$/img/icon/service-free-bus.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\service-home-resource.png" afterPath="$PROJECT_DIR$/img/icon/service-home-resource.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\service-price.png" afterPath="$PROJECT_DIR$/img/icon/service-price.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\service-price2.png" afterPath="$PROJECT_DIR$/img/icon/service-price2.png" />
-      <change type="MOVED" beforePath="E:\github\pcfy\img\tel-icon.png" afterPath="$PROJECT_DIR$/img/icon/tel-icon.png" />
     </list>
     <ignored path="pcfy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -249,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="E:/web exercise/webstorm/lazyload" />
+    <property name="last_opened_file_path" value="E:/web exercise/webstorm/gulp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
