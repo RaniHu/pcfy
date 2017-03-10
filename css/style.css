@@ -30,7 +30,7 @@ body {
       font-size: 18px;
       font-weight: normal;
       color: #ffffff;
-      background: url("../img/logo.png") no-repeat left;
+      background: url("../img/icon/logo.png") no-repeat left;
       background-size: 35px;
       padding-left: 35px; }
     #header .nav-box #top-nav {
@@ -160,7 +160,8 @@ body {
       .section.s3 #contact-list li img {
         width: 30px;
         vertical-align: middle; }
-      .section.s3 #contact-list li .contact-txt {
+      .section.s3 #contact-list li a, .section.s3 #contact-list li .contact-txt {
+        font-size: 14px;
         color: #333333; }
 
 .section.s4 {
@@ -321,7 +322,7 @@ body {
       #header .nav-box #logo {
         margin-left: 15px;
         font-size: 14px;
-        background: url("../img/logo@x2.png") no-repeat left;
+        background: url("../img/icon/logo@x2.png") no-repeat left;
         background-size: 30px; }
       #header .nav-box #top-nav {
         display: none;
@@ -358,7 +359,7 @@ body {
         display: inline-block;
         width: 30px;
         height: 30px;
-        background: url("../img/open-icon.png") no-repeat center;
+        background: url("../img/icon/open-icon.png") no-repeat center;
         background-size: 30px; }
 
   /*主要内容*/

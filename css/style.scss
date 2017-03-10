@@ -31,7 +31,7 @@ $header-nav-bgColor: #1072d9;
       font-size: 18px;
       font-weight: normal;
       color: #ffffff;
-      background: url("../img/logo.png") no-repeat left;
+      background: url("../img/icon/logo.png") no-repeat left;
       background-size: $logo-height;
       padding-left: $logo-height;
     }
@@ -195,7 +195,8 @@ $header-nav-bgColor: #1072d9;
         width: 30px;
         vertical-align: middle;
       }
-      .contact-txt {
+      a,.contact-txt {
+        font-size: 14px;
         color: #333333;
       }
     }
@@ -397,7 +398,7 @@ $nav-height: 50px;
       #logo {
         margin-left: $header-padding;
         font-size: 14px;
-        background: url("../img/logo@x2.png") no-repeat left;
+        background: url("../img/icon/logo@x2.png") no-repeat left;
         background-size: 30px;
       }
 
@@ -436,7 +437,7 @@ $nav-height: 50px;
         display: inline-block;
         width: $open-icon-size;
         height: $open-icon-size;
-        background: url("../img/open-icon.png") no-repeat center;
+        background: url("../img/icon/open-icon.png") no-repeat center;
         background-size: $open-icon-size;
       }
     }
