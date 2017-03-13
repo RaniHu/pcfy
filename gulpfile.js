@@ -91,17 +91,17 @@ gulp.task('minifyjs', function () {
 
 // 压缩图片
 gulp.task('minifyimg', function () {
-    return gulp.src('./src/img/icon/*')
+    return gulp.src('./src/img/*')
         .pipe(smushit({
             verbose: true
         }))
-        .pipe(gulp.dest('./img/icon'));
+        .pipe(gulp.dest('./img/'));
 });
 
 //复制
 gulp.task('copy',  function() {
-    return gulp.src('./src/img/**/*')
-        .pipe(gulp.dest('./img'))
+    return gulp.src('./src/img/block-info/**/*')
+        .pipe(gulp.dest('./img/block-info/'))
 });
 
 
@@ -138,5 +138,5 @@ gulp.task('clean', function () {
 //默认任务   
 //压缩js需要在检查js之后操作
 gulp.task('default', ['clean','jshint'], function () {
-    gulp.start('minifyimg','copy','minifycss', 'minifyjs', 'htmlmin');
+    gulp.start('minifyimg',/*'copy',*/'minifycss', 'minifyjs', 'htmlmin');
 });
