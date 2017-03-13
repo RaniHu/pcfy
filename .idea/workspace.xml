@@ -1,8 +1,310 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3406f821-1200-467e-8cdb-ef44f1bd7669" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lazyLoad.js" />
+    <list default="true" id="3406f821-1200-467e-8cdb-ef44f1bd7669" name="默认的" comment="楼盘图片">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8094.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8095.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8096.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8097.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8098.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8099.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8100.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/IMG_8101.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/back-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dhyt/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/banner1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dsxxty/banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner10.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner11.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner12.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner12.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner12.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner13.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner14.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dhyt/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/banner2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dsxxty/banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dhyt/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/banner3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dsxxty/banner3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/dhyt/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/gydyh/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kswxc/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ldxyl/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/banner9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zjmlc/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/block-space1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/block-space1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/mlct/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tfxw/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ydjy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/block-space2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/block-space2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/kymd/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/whgc/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/block-space3.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/block-space3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/bjjy/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jfy/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyyyxh/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/zxxchy/block-space4.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jnms/block-space4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/jyds/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space5.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/ddmrfd/block-space6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwhwgj/block-space6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xhyhy/block-space6.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space7.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space8.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/hzwjysjc/block-space9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/lyggd/block-space9.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/business.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/contact-pos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/contact-tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/contact-women.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/logo@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-banner1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-banner3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-block-space1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-block-space2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/thlxc/lxc-block-space3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/open-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/school1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/school2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/service-allowance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/service-free-bus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/service-home-resource.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/icon/tel-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/tel_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/img/block-info/xsjxhy/traffic.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/ddmrfd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/dhyt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/dsxxty.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/gydyh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/hzwhwgj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/hzwjysjc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/jfy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/jnms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/jyds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/jyyyxh.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/kswxc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/kymd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/ldxyl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/lyggd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/mlct.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/tfxw.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/whgc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/xhyihy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/xsjxhy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/ydjy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/zjmlc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/block-info/zxxchy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pcfy.iml" afterPath="$PROJECT_DIR$/.idea/pcfy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\block-info.css" afterPath="$PROJECT_DIR$/src/css/block-info.css" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\block-info.css.map" afterPath="$PROJECT_DIR$/src/css/block-info.css.map" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\block-info.scss" afterPath="$PROJECT_DIR$/src/css/block-info.scss" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\common_mixin.css" afterPath="$PROJECT_DIR$/src/css/common_mixin.css" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\common_mixin.css.map" afterPath="$PROJECT_DIR$/src/css/common_mixin.css.map" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\common_mixin.scss" afterPath="$PROJECT_DIR$/src/css/common_mixin.scss" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\style.css" afterPath="$PROJECT_DIR$/src/css/style.css" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\style.scss" afterPath="$PROJECT_DIR$/src/css/style.scss" />
+      <change type="MOVED" beforePath="E:\github\pcfy\css\swiper.min.css" afterPath="$PROJECT_DIR$/src/css/swiper.css" />
+      <change type="MOVED" beforePath="E:\github\pcfy\img\icon\service-price2.png" afterPath="$PROJECT_DIR$/src/img/icon/service-price.png" />
+      <change type="MOVED" beforePath="E:\github\pcfy\js\jquery-1.9.1-min.js" afterPath="$PROJECT_DIR$/src/js/jquery-1.9.1-min.js" />
+      <change type="MOVED" beforePath="E:\github\pcfy\js\lazyLoad.js" afterPath="$PROJECT_DIR$/src/js/lazyLoad.js" />
+      <change type="MOVED" beforePath="E:\github\pcfy\js\main.js" afterPath="$PROJECT_DIR$/src/js/event.js" />
+      <change type="MOVED" beforePath="E:\github\pcfy\js\swiper.jquery.min.js" afterPath="$PROJECT_DIR$/src/js/swiper.jquery.js" />
     </list>
     <ignored path="pcfy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,51 +325,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.366667">
-              <caret line="464" column="77" selection-start-line="464" selection-start-column="77" selection-end-line="464" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.34115523">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lazyLoad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lazyLoad.js">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ldxyl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/block-info/ldxyl.html">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.966666">
-              <caret line="111" column="69" selection-start-line="111" selection-start-column="69" selection-end-line="111" selection-end-column="69" />
+            <state vertical-scroll-proportion="-8.133333">
+              <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://E:/web exercise/webstorm/gulp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.9">
+              <caret line="28" column="73" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bjjy.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/block-info/bjjy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jyds.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/block-info/jyds.html">
+        <entry file="file://$PROJECT_DIR$/src/block-info/jyds.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.3">
-              <caret line="111" column="56" selection-start-line="111" selection-start-column="56" selection-end-line="111" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77290076">
-              <caret line="198" column="23" selection-start-line="198" selection-start-column="23" selection-end-line="198" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="151" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="231" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -89,42 +401,68 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/block-info/footer.html" />
-        <option value="$PROJECT_DIR$/js/loadFooter.js" />
-        <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/css/footer.scss" />
-        <option value="$PROJECT_DIR$/block-info/jsyyxh.html" />
+        <option value="$PROJECT_DIR$/block-info/ddmrfd.html" />
         <option value="$PROJECT_DIR$/block-info/dhyt.html" />
+        <option value="$PROJECT_DIR$/block-info/dsxxty.html" />
         <option value="$PROJECT_DIR$/block-info/gydyh.html" />
+        <option value="$PROJECT_DIR$/block-info/hzwhwgj.html" />
+        <option value="$PROJECT_DIR$/block-info/hzwjysjc.html" />
         <option value="$PROJECT_DIR$/block-info/jfy.html" />
         <option value="$PROJECT_DIR$/block-info/jnms.html" />
+        <option value="$PROJECT_DIR$/block-info/jyds.html" />
+        <option value="$PROJECT_DIR$/block-info/jyyyxh.html" />
         <option value="$PROJECT_DIR$/block-info/kswxc.html" />
+        <option value="$PROJECT_DIR$/block-info/kymd.html" />
+        <option value="$PROJECT_DIR$/block-info/ldxyl.html" />
+        <option value="$PROJECT_DIR$/block-info/mlct.html" />
         <option value="$PROJECT_DIR$/block-info/lyggd.html" />
         <option value="$PROJECT_DIR$/block-info/tfxw.html" />
         <option value="$PROJECT_DIR$/block-info/whgc.html" />
         <option value="$PROJECT_DIR$/block-info/xhyihy.html" />
         <option value="$PROJECT_DIR$/block-info/xsjxhy.html" />
-        <option value="$PROJECT_DIR$/block-info/zxxchy.html" />
-        <option value="$PROJECT_DIR$/block-info/ddmrfd.html" />
-        <option value="$PROJECT_DIR$/block-info/jyyyxh.html" />
-        <option value="$PROJECT_DIR$/block-info/mlct.html" />
-        <option value="$PROJECT_DIR$/block-info/kymd.html" />
+        <option value="$PROJECT_DIR$/block-info/ydjy.html" />
         <option value="$PROJECT_DIR$/block-info/zjmlc.html" />
-        <option value="$PROJECT_DIR$/block-info/hzwhwgj.html" />
-        <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/block-info.scss" />
-        <option value="$PROJECT_DIR$/block-info/dsxxty.html" />
-        <option value="$PROJECT_DIR$/block-info/ldxyl.html" />
-        <option value="$PROJECT_DIR$/block-info/jyds.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/block-info/zxxchy.html" />
+        <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/css/block-info.scss" />
+        <option value="$PROJECT_DIR$/src/block-info/ddmrfd.html" />
+        <option value="$PROJECT_DIR$/src/block-info/dhyt.html" />
+        <option value="$PROJECT_DIR$/src/block-info/dsxxty.html" />
+        <option value="$PROJECT_DIR$/src/block-info/gydyh.html" />
+        <option value="$PROJECT_DIR$/src/block-info/hzwhwgj.html" />
+        <option value="$PROJECT_DIR$/src/block-info/hzwjysjc.html" />
+        <option value="$PROJECT_DIR$/src/block-info/jfy.html" />
+        <option value="$PROJECT_DIR$/src/block-info/jnms.html" />
+        <option value="$PROJECT_DIR$/src/block-info/jyyyxh.html" />
+        <option value="$PROJECT_DIR$/src/block-info/kswxc.html" />
+        <option value="$PROJECT_DIR$/src/block-info/kymd.html" />
+        <option value="$PROJECT_DIR$/src/block-info/ldxyl.html" />
+        <option value="$PROJECT_DIR$/src/block-info/lyggd.html" />
+        <option value="$PROJECT_DIR$/src/block-info/mlct.html" />
+        <option value="$PROJECT_DIR$/src/block-info/tfxw.html" />
+        <option value="$PROJECT_DIR$/src/block-info/whgc.html" />
+        <option value="$PROJECT_DIR$/src/block-info/xhyihy.html" />
+        <option value="$PROJECT_DIR$/src/block-info/xsjxhy.html" />
+        <option value="$PROJECT_DIR$/src/block-info/ydjy.html" />
+        <option value="$PROJECT_DIR$/src/block-info/zjmlc.html" />
+        <option value="$PROJECT_DIR$/src/block-info/zxxchy.html" />
+        <option value="$PROJECT_DIR$/src/block-info/jyds.html" />
+        <option value="$PROJECT_DIR$/src/js/event.js" />
+        <option value="$PROJECT_DIR$/src/block-info/bjjy.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/css/style.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
   </component>
   <component name="NamedScopeManager">
     <order />
@@ -158,6 +496,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,57 +516,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pcfy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block-info" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="E:/web exercise/webstorm/gulp" />
+    <property name="last_opened_file_path" value="E:/web exercise/webstorm/gulp/index.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
@@ -235,13 +531,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\pcfy\src\img\block-info\bjjy" />
+      <recent name="E:\github\pcfy\src\img\icon" />
       <recent name="E:\github\pcfy\img\icon" />
       <recent name="E:\github\pcfy\js" />
       <recent name="E:\github\pcfy\img\block-info\jyds" />
-      <recent name="E:\github\pcfy\img\block-info\ldxyl" />
-      <recent name="E:\github\pcfy\img\block-info\zjmlc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\pcfy\src\img" />
+      <recent name="E:\github\pcfy\src\img\block-info\bjjy" />
+      <recent name="E:\github\pcfy\src" />
       <recent name="E:\github\pcfy\img\icon" />
       <recent name="E:\github\pcfy" />
     </key>
@@ -297,20 +596,83 @@
       <option name="number" value="Default" />
       <updated>1487581336231</updated>
     </task>
+    <task id="LOCAL-00001" summary="删除gulp构建之前文件">
+      <created>1489394083664</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394083664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="鹏程房源首页">
+      <created>1489394250331</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394250331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="楼盘详情页">
+      <created>1489394331488</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394331488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="图标及楼盘图片">
+      <created>1489394370602</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394370602</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gulp压缩后的js">
+      <created>1489394436667</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394436667</updated>
+    </task>
+    <task id="LOCAL-00006" summary="gulp压缩后的css样式">
+      <created>1489394673568</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394673568</updated>
+    </task>
+    <task id="LOCAL-00007" summary="gulp配置文件">
+      <created>1489394724802</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1489394724802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="楼盘图片">
+      <created>1489410372908</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489410372908</updated>
+    </task>
+    <task id="LOCAL-00009" summary="gulp配置文件">
+      <created>1489410589352</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1489410589352</updated>
+    </task>
+    <task id="LOCAL-00010" summary="鹏程房源首页">
+      <created>1489410756223</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489410756223</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -322,7 +684,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -358,239 +720,302 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除gulp构建之前文件" />
+    <MESSAGE value="楼盘详情页" />
+    <MESSAGE value="图标及楼盘图片" />
+    <MESSAGE value="gulp压缩后的js" />
+    <MESSAGE value="gulp压缩后的css样式" />
+    <MESSAGE value="楼盘图片" />
+    <MESSAGE value="gulp配置文件" />
+    <MESSAGE value="鹏程房源首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="鹏程房源首页" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/block-info.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="214" column="28" selection-start-line="214" selection-start-column="26" selection-end-line="214" selection-end-column="28" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/src/img/block-info/kymd/banner1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="223" column="10" selection-start-line="220" selection-start-column="4" selection-end-line="223" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/ddmrfd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="214" column="6" selection-start-line="214" selection-start-column="6" selection-end-line="214" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.scss">
+    <entry file="file://$PROJECT_DIR$/src/js/lazyLoad.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/block-info.scss">
+    <entry file="file://$PROJECT_DIR$/src/img/icon/contact-women.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon/logo@x2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon/open-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon/service-price.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/icon/service-allowance.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../resume/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="191" column="21" selection-start-line="191" selection-start-column="21" selection-end-line="191" selection-end-column="21" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/tfxw/block-space1.JPG">
+    <entry file="file://$PROJECT_DIR$/src/img/icon/contact-pos.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/tfxw/banner6.JPG">
+    <entry file="file://$PROJECT_DIR$/src/img/block-info/bjjy/banner2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/tfxw/banner1.JPG">
+    <entry file="file://$PROJECT_DIR$/src/js/jquery-1.9.1-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.501713">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/block-info/jyds/banner1.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/tfxw/banner2.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/block-info/ddmrfd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/lyggd/banner1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/block-info/dhyt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/dhyt/banner1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/src/block-info/dsxxty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/footer.scss">
+    <entry file="file://$PROJECT_DIR$/src/block-info/gydyh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/hzwjysjc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/hzwhwgj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/jfy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/jnms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/kswxc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/kymd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/ldxyl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/lyggd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/mlct.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/tfxw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/whgc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/xhyihy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/ydjy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/zjmlc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3032491">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/xsjxhy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/zxxchy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/block-info/jyyyxh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26534295">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/event.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/dhyt/banner3.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/jfy/banner1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/jfy/block-space1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/jfy/block-space2.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/zxxchy/banner3.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/zxxchy/banner1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/zxxchy/banner2.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/mlct/banner5.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/dhyt.html">
+    <entry file="file://$PROJECT_DIR$/src/css/block-info.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45487365">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state vertical-scroll-proportion="-7.0">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/gydyh.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45487365">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state vertical-scroll-proportion="-0.66787004">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/jfy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45487365">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/jnms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44584838">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/kswxc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45487365">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/lyggd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11371841">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/tfxw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.4">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/whgc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.4">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/xhyihy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.033334">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/xsjxhy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.4">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/zxxchy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29241878">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/ddmrfd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9666667">
-          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/mlct.html">
+    <entry file="file://$PROJECT_DIR$/src/block-info/jyds.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="169" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="204" selection-end-column="7" />
+          <caret line="151" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="231" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/kymd/banner8.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/kymd/banner9.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/kymd/banner10.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/block-info/kymd/banner1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/kymd.html">
+    <entry file="file://$PROJECT_DIR$/src/block-info/bjjy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="44" selection-start-line="104" selection-start-column="32" selection-end-line="104" selection-end-column="44" />
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/block-info/bjjy/block-space1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/block-info/bjjy/banner5.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/img/block-info/bjjy/banner1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://E:/web exercise/webstorm/gulp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9">
+          <caret line="28" column="73" selection-start-line="27" selection-start-column="4" selection-end-line="28" selection-end-column="73" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -599,91 +1024,36 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/zjmlc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/hzwhwgj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39530686">
-          <caret line="103" column="42" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/block-info.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5">
-          <caret line="695" column="3" selection-start-line="695" selection-start-column="3" selection-end-line="695" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/dsxxty.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.41621622">
-          <caret line="101" column="57" selection-start-line="0" selection-start-column="0" selection-end-line="188" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/jyyyxh.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.037837837">
-          <caret line="16" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="228" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/jyds.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.3">
-          <caret line="111" column="56" selection-start-line="111" selection-start-column="56" selection-end-line="111" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/icon/contact-pos.png">
+    <entry file="file://$PROJECT_DIR$/src/img/banner2.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/block-info/ldxyl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.966666">
-          <caret line="111" column="69" selection-start-line="111" selection-start-column="69" selection-end-line="111" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lazyLoad.js">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/src/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.366667">
-          <caret line="464" column="77" selection-start-line="464" selection-start-column="77" selection-end-line="464" selection-end-column="77" />
+        <state vertical-scroll-proportion="-8.133333">
+          <caret line="80" column="28" selection-start-line="80" selection-start-column="28" selection-end-line="80" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.scss">
+    <entry file="file://$PROJECT_DIR$/img/block-info/bjjy/banner1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77290076">
-          <caret line="198" column="23" selection-start-line="198" selection-start-column="23" selection-end-line="198" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.34115523">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
           <folding />
         </state>
       </provider>
