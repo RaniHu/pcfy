@@ -138,5 +138,5 @@ gulp.task('clean', function () {
 //默认任务   
 //压缩js需要在检查js之后操作
 gulp.task('default', ['clean','jshint'], function () {
-    gulp.start('minifyimg',/*'copy',*/'minifycss', 'minifyjs', 'htmlmin');
+    gulp.start('minifyimg','copy','minifycss', 'minifyjs', 'htmlmin');
 });
